@@ -57,7 +57,7 @@
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "storybook": "8.6.12",
     "vite": "^4.1.4",
-    "zx": "^1.14.1"
+    "zx": "^8.8.5"
   },
   "peerDependencies": {
     "@emotion/react": "^11.11.1",
